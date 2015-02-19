@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "StringExperiment", "StringExperiment\StringExperiment.vcxproj", "{47D1880D-D7C1-4E8B-9A5C-0BE6E96F971D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{47D1880D-D7C1-4E8B-9A5C-0BE6E96F971D}.Debug|Win32.ActiveCfg = Debug|Win32
+		{47D1880D-D7C1-4E8B-9A5C-0BE6E96F971D}.Debug|Win32.Build.0 = Debug|Win32
+		{47D1880D-D7C1-4E8B-9A5C-0BE6E96F971D}.Release|Win32.ActiveCfg = Release|Win32
+		{47D1880D-D7C1-4E8B-9A5C-0BE6E96F971D}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
